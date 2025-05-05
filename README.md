@@ -40,6 +40,11 @@ python server.py
 ```bash
 python client.py
 ```
+
+### Screenshots
+
+![Chat GUI](screenshots/Screenshot%20from%202025-05-05%2012-23-44.png)
+![Chat GUI](screenshots/Screenshot%20from%202025-05-05%2012-24-01.png)
 ### 📁 Project Structure
 ```bash
 pychatroom/
@@ -48,4 +53,8 @@ pychatroom/
 ├── client.py         # GUI client
 ├── README.md         # Project readme
 └── screenshots/      # Optional: store your UI screenshots here
+
+
+### Screenshots
+
 
