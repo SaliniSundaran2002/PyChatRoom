@@ -28,7 +28,7 @@
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/pychatroom.git
+git clone https://github.com/SaliniSundaran2002/PyChatRoom.git
 cd pychatroom
 ```
 
